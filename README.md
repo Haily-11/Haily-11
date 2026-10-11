@@ -54,8 +54,9 @@ hi,I'm haily-11
 
 <!-- knock code pictures 敲代码的图片 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 </div>
+
 
 
 | <a href="https://github.com/Haily-11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haily-11&show_icons=true&theme=transparent&commits_year=2026" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haily-11&layout=compact&theme=buefy&hide_border=true" /></a> |

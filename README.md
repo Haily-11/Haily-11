@@ -86,6 +86,4 @@ hi,I'm haily-11
 
 
 
-| <a href="https://github.com/Haily-11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haily-11&show_icons=true&theme=transparent&commits_year=2026" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haily-11&layout=compact&theme=buefy&hide_border=true" /></a> |
-
 

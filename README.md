@@ -4,6 +4,9 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Haily-11.Haily-11&left_text=Visitors&left_color=%23FFB6C1&right_color=%23FF69B4&logo=github&style=flat-square)
 
+
+hi,I'm haily-11
+- CSDN: [@haily11](https://blog.csdn.net/yaohan_oil1949?type=blog)
 <div align="left">
   <!-- Line 1: Core CS Fundamentals -->
   <p>
@@ -47,6 +50,11 @@
     <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white" style="display: inline-block;" />
     <img src="https://img.shields.io/badge/LangGraph4j-1C3C3C?style=flat-square&logo=graphql&logoColor=white" style="display: inline-block;" />
   </p>
+</div>
+
+<!-- knock code pictures 敲代码的图片 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </div>
 
 

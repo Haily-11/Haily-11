@@ -1,0 +1,55 @@
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=console.log(%22Hello%2C%20World!%22);WelcWwelcome%20to%20Haily-11%20GitHub%20profile!&center=true&size=27">
+</h1>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Haily-11.Haily-11&left_text=Visitors&left_color=%23FFB6C1&right_color=%23FF69B4&logo=github&style=flat-square)
+
+<div align="left">
+  <!-- Line 1: Core CS Fundamentals -->
+  <p>
+    🌟  <b>Foundation & CS Basics:</b>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/JUC-ED8B00?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/JVM-FF6F00?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Design%20Patterns-4B8BBE?style=flat-square&logo=buffer&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square&logo=linux&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Computer%20Networks-0078D7?style=flat-square&logo=cisco&logoColor=white" style="display: inline-block;" />
+  </p>
+
+  <!-- Line 2: Databases & Middleware -->
+  <p>
+    🗄️ <b>Proficient in Databases & Middleware:</b>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Netty-009639?style=flat-square&logo=netty&logoColor=white" style="display: inline-block;" />
+  </p>
+
+  <!-- Line 3: Frameworks & DevOps -->
+  <p>
+    💻 <b>Experienced in Frameworks & DevOps:</b>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/MyBatis-2C2255?style=flat-square&logo=mybatis&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="display: inline-block;" />
+  </p>
+
+  <!-- Line 4: AI & LLMs -->
+  <p>
+    🤖 <b>Exploring AI & LLMs:</b>
+       <img src="https://img.shields.io/badge/RAG-FFB6C1?style=flat-square&logoColor=black" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Prompt%20Eng-FF69B4?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Tool%20Calling-4B0082?style=flat-square&logo=openai&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/MCP-0052CC?style=flat-square&logo=serverfault&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/Multi--Agent-8A2BE2?style=flat-square&logo=probot&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/SSE-00ADD8?style=flat-square" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square&logo=langchain&logoColor=white" style="display: inline-block;" />
+    <img src="https://img.shields.io/badge/LangGraph4j-1C3C3C?style=flat-square&logo=graphql&logoColor=white" style="display: inline-block;" />
+  </p>
+</div>
+
+
+| <a href="https://github.com/Haily-11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Haily-11&show_icons=true&theme=transparent&commits_year=2026" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haily-11&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
